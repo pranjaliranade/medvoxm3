@@ -23,9 +23,9 @@ function App() {
           <div className="news-item"></div>
           <div className="news-item"></div>
           <div className="news-item"></div>
+          {/*<div className="news-item"></div>
           <div className="news-item"></div>
-          <div className="news-item"></div>
-          <div className="news-item"></div>
+          <div className="news-item"></div>*/}
         </div>
         <h2>Heart stuff</h2>
         <div className="row">
@@ -35,7 +35,7 @@ function App() {
           <div className="news-item"></div>
           <div className="news-item"></div>
           <div className="news-item"></div>
-          <div className="news-item"></div>
+          {/*<div className="news-item"></div>*/}
         </div>
         <h2>Bone stuff</h2>
         <div className="row">

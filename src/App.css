@@ -96,8 +96,8 @@ body {
   padding: 10px;
   border: 20px;
   border-color: white;
-  /*background-color: antiquewhite;*/
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+  /*background-color: antiquewhite;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 1);*/
 }
 .bottom {
   margin-bottom: 100px;
