@@ -109,6 +109,20 @@ body {
   /*background-color: antiquewhite;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 1);*/
 }
+ /* the slides */
+.slick-slide {
+  margin: 0 7px;
+}
+
+/* the parent */
+.slick-list {
+  margin: 0 -7px;
+}*/
+
+.slider-dots {
+  position: fixed;
+  size: 20px;
+}
 .bottom {
   margin-bottom: 100px;
 }
